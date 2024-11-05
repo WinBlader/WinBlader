@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/waleed-wani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed wani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/waleed-wani-4386b731a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleed wani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_wani_walee_d/profilecard/?igsh=d2pra2Q3Y2hsdzFo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_wani_walee_d" height="30" width="40" /></a>
 </p>
 
