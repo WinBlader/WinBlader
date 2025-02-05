@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winblader&label=Profile%20views&color=0e75b6&style=flat" alt="winblader" /> </p>
 
 
-- 🌱 I’m currently learning **Java,Javascript.**
+- 🌱 I’m currently learning **Java,Kotlin.**
 
 - 📫 How to reach me **waleedwani9@gmail.com**
 
