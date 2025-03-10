@@ -58,6 +58,6 @@
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="winblader" />
   <br>
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=winblader&theme=github-dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=winblader&" alt="winblader" />
 </div>
 
