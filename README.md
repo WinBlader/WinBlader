@@ -56,10 +56,8 @@
 
 ### GitHub Stats  
 
-![Waleed Wani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&theme=radical)  
+![WinBlader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinBlader&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winblader&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinBlader&layout=compact&theme=radical)  
 
-![Streak Stats](https://streak-stats.demolab.com/?user=winblader&theme=radical)  
-
-
+![Streak Stats](https://streak-stats.demolab.com/?user=WinBlader&theme=radical)  
