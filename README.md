@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Waleed-Wani&label=Profile%20views&color=0e75b6&style=flat" alt="Waleed-Wani" /> 
+  <img src="https://komarev.com/ghpvc/?username=winblader&label=Profile%20views&color=0e75b6&style=flat" alt="winblader" /> 
 </p>
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
@@ -57,9 +57,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waleed-Wani&show_icons=true&locale=en" alt="Waleed-Wani" />
+  <img src="https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="winblader" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Waleed-Wani&show_icons=true&locale=en&layout=compact" alt="Waleed-Wani" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winblader&show_icons=true&locale=en&layout=compact" alt="winblader" />
 </p>
