@@ -54,8 +54,9 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winblader&show_icons=true&locale=en&layout=compact" alt="winblader" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WinBlader&show_icons=true&locale=en&layout=compact" alt="WinBlader" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="winblader" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WinBlader&show_icons=true&locale=en" alt="WinBlader" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winblader&" alt="winblader" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WinBlader&" alt="WinBlader" /></p>
+
