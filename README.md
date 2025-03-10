@@ -54,14 +54,12 @@
   </a> 
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+### GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats-winblader.vercel.app/api?username=winblader&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Waleed Wani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&theme=radical)  
 
-<p align="center">
-  <img src="https://github-readme-stats-winblader.vercel.app/api/top-langs/?username=winblader&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winblader&layout=compact&theme=radical)  
+
+![Streak Stats](https://streak-stats.demolab.com/?user=winblader&theme=radical)  
 
 
