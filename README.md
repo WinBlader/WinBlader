@@ -4,7 +4,7 @@
 <h2 align="center">FrontEnd Developer | Web Enthusiast</h2>
 <img align="right" alt="coding" width="400" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=winblader&label=Profile%20views&color=0e75b6&style=flat" alt="winblader" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waleed-wani&label=Profile%20views&color=0e75b6&style=flat" alt="waleed-wani" /> </p>
 
 
 - 🌱 I’m currently learning **JavaScript,ReactJS**
@@ -23,11 +23,11 @@
 #GitHub Stats📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="winblader" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waleed-wani&show_icons=true&locale=en" alt="waleed-wani" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winblader&show_icons=true&locale=en&layout=compact" alt="winblader" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-wani&show_icons=true&locale=en&layout=compact" alt="waleed-wani" />
 </p>
 
 
