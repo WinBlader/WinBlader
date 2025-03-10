@@ -54,10 +54,10 @@
   </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=winblader&show_icons=true&locale=en&layout=compact" alt="winblader" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=winblader&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="winblader" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="GitHub Stats" />
   <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=winblader&" alt="winblader" />
+  <img src="https://streak-stats.demolab.com?user=winblader&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
