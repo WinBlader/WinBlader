@@ -57,9 +57,19 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="winblader" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winblader&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winblader&show_icons=true&locale=en&layout=compact" alt="winblader" />
+  <img src="https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winblader&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/winblader?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/winblader?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
