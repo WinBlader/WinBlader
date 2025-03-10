@@ -54,10 +54,12 @@
   </a> 
 </p>
 
-### GitHub Stats  
+![WinBlader's Graph](https://github-readme-activity-graph.vercel.app/graph?username=WinBlader&custom_title=WinBlader%20GitHub%20Activity%20Graph&bg_color=none&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![WinBlader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WinBlader&show_icons=true&theme=radical)  
+| ![WinBlader's github stats](https://github-readme-stats.vercel.app/api?username=WinBlader&show_icons=true&theme=transparent) | ![WinBlader GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WinBlader&theme=transparent) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinBlader&theme=transparent) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=WinBlader&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=transparent) |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WinBlader&theme=tokyonight&&row=2&no-bg=true&column=9&margin-w=15&margin-h=15" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WinBlader&layout=compact&theme=radical)  
-
-![Streak Stats](https://streak-stats.demolab.com/?user=WinBlader&theme=radical)  
