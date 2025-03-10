@@ -54,9 +54,11 @@
   </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 # 📊 GitHub Stats  
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=winblader&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=winblader&theme=default&hide_border=false)<br/>  
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=winblader&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winblader&show_icons=true&locale=en&layout=compact" alt="winblader" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=winblader&show_icons=true&locale=en" alt="winblader" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=winblader&" alt="winblader" /></p> 
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=winblader&theme=radical&no-frame=false&no-bg=false&margin-w=4)
