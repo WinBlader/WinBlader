@@ -22,7 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://x.com/wani_walee_d" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/X-Logo-Round-Color.png/640px-X-Logo-Round-Color.png" alt="X" height="30" width="40" />
+    <img align="center" src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="X" height="30" width="40" />
   </a>
 </p>
 
