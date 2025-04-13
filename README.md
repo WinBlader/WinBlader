@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=winblader&label=Profile%20views&color=0e75b6&style=flat" alt="winblader" /> 
 </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
+- 🌱 I’m currently learning **ExpressJS**
 - 📫 How to reach me **waleedwani9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
