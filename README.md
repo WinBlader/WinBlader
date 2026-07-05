@@ -23,7 +23,6 @@
 - 💡 Building modern Android applications using Kotlin & Jetpack Compose
 - 🏗️ Following MVVM Architecture
 - 🎨 Love designing beautiful Material 3 user interfaces
-- 🌙 Building apps with Light & Dark Mode support
 - 🌱 Currently learning **Advanced Android Development, Clean Architecture, Coroutines, Backend Development**
 - 🚀 Always exploring new technologies and improving my development skills
 
