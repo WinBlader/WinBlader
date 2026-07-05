@@ -5,7 +5,7 @@
 <h3 align="center">Computer Science Student | Android Developer | Kotlin Enthusiast</h3>
 
 <h2 align="center">
-📱 Android Development • Kotlin • Jetpack Compose • Firebase • MVVM • Material 3
+📱 Android Development • Kotlin • Java • Jetpack Compose • MVVM • Material 3
 </h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
@@ -21,11 +21,10 @@
 - 🎓 B.Tech Computer Science Student
 - 📱 Passionate Android Developer
 - 💡 Building modern Android applications using Kotlin & Jetpack Compose
-- 🔥 Experienced with Firebase Authentication & Realtime Database
 - 🏗️ Following MVVM Architecture
 - 🎨 Love designing beautiful Material 3 user interfaces
 - 🌙 Building apps with Light & Dark Mode support
-- 🌱 Currently learning **Advanced Android Development, Clean Architecture, Coroutines, Docker & Backend Development**
+- 🌱 Currently learning **Advanced Android Development, Clean Architecture, Coroutines, Backend Development**
 - 🚀 Always exploring new technologies and improving my development skills
 
 📫 **Reach me at:** **waleedwani9@gmail.com**
@@ -101,8 +100,6 @@
 - ⚡ StateFlow
 - 🖼️ Coil Image Loading
 - 📷 Camera & Image Picker APIs
-- 🎭 Light & Dark Theme Support
-
 ---
 
 # ☁️ Backend & Databases
@@ -149,8 +146,6 @@
 - 🚀 Advanced Android Development
 - 🏛️ Clean Architecture
 - 🧩 Dependency Injection
-- ⚙️ Docker
-- 🍃 MongoDB
 - ☁️ Backend Development
 - 🌐 REST APIs
 - 🧪 Unit Testing
