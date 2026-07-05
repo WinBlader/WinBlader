@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Waleed Wani</h1>
 <h3 align="center">A Passionate Computer Science Student</h3>
-<h2 align="center">FrontEnd Developer | Web Enthusiast</h2>
+<h2 align="center">Android Developer | Kotlin | Java</h2>
 
 <img align="right" alt="coding" width="400" src="https://cdn.wallpapersafari.com/33/41/5nCvx3.gif">
 
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=winblader&label=Profile%20views&color=0e75b6&style=flat" alt="winblader" /> 
 </p>
 
-- 🌱 I’m currently learning **ExpressJS**
+-🌱 I’m currently learning **Android Development, MVVM, Hilt, and Jetpack Compose**
 - 📫 How to reach me **waleedwani9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
